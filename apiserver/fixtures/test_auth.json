@@ -1,0 +1,23 @@
+[
+  {
+    "model": "apiserver.User",
+    "fields": {
+      "username": "makerj",
+      "created": "2016-02-25 08:58:24.200225+00:00"
+    }
+  },
+  {
+    "model": "apiserver.User",
+    "fields": {
+      "username": "makersm",
+      "created": "2016-02-25 08:58:24.200225+00:00"
+    }
+  },
+  {
+    "model": "apiserver.User",
+    "fields": {
+      "username": "signdownuser",
+      "created": "2016-02-25 08:58:24.200225+00:00"
+    }
+  }
+]

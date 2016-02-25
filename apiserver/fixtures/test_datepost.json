@@ -1,0 +1,29 @@
+[
+  {
+    "model": "apiserver.Couple",
+    "pk": 1,
+    "fields": {
+      "title": "makers",
+      "description": "we are makers",
+      "created": "2016-02-25 08:58:24.200225+00:00"
+    }
+  },
+  {
+    "model": "apiserver.User",
+    "pk": 1,
+    "fields": {
+      "username": "makerj",
+      "created": "2016-02-25 08:58:24.200225+00:00",
+      "couple": 1
+    }
+  },
+  {
+    "model": "apiserver.User",
+    "pk": 2,
+    "fields": {
+      "username": "makersm",
+      "created": "2016-02-25 08:58:24.200225+00:00",
+      "couple": 1
+    }
+  }
+]

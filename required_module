@@ -1,0 +1,19 @@
+# python3
+apt-get install -y python3
+apt-get install -y python3-pip
+apt-get install python3-dev
+# postgres (connector)
+apt-get install libpq-dev
+pip3 install psycopg2
+# apache (server)
+apt-get install -y apache2
+apt-get install -y libapache2-mod-wsgi-py3
+# django
+pip3 install django
+pip3 install django-filter
+pip3 install djangorestframework
+pip3 install django-cors-headers
+# AWS
+pip3 install boto
+# misc
+pip3 install nap
